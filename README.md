@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @DidaFett
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Python, Linux, Intrusion, SIEM...
-- 💞️ I’m brand new and don't have much to offer to collaborate with anyone.
-- 📫 How to reach me ...
-- 😄 Pronouns: he
-- ⚡ Fun facts are fun.
+<h1>Hi, I'm Mike!
 
-<!---
-DidaFett/DidaFett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- in progress
+
+<h2>📺 Certifications</h2>
+
+- Google Cybersecurity Professional (in progress est complete March 2024)
+
+<h2> 🤳 Other section:</h2>
+
+🐯
